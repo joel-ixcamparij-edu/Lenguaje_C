@@ -60,6 +60,11 @@ Compilador GCC instalado en tu sistema (Linux, Windows o macOS).
 
 Autor:
 
-Coloca aquí tu nombre.
+Carlos Joel Ixcamparij López
 
-Curso: Fundamentos de Construcción de Software.
+Carné: 25006741
+
+Curso: Fundamentos de Construcción de Software
+
+Universidad Galileo, Instituto Von Neumann.
+
